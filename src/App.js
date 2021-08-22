@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import Cita from './components/Cita';
 import Formulario from './components/Formulario';
+import Cita from './components/Cita';
 
 function App() {
   // Obtenemos las citas en el localStorage con getItem
